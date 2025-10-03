@@ -392,6 +392,7 @@ useHead({
     { name: 'twitter:description', content: () => t.value.meta.description },
     { name: 'robots', content: 'index, follow' },
     { name: 'author', content: 'SEMrush Landing' },
+    { name: 'google-site-verification', content: 'XcH-9a_fiVa41zaoFxu2p-oHqUXuWjkiofsKtx7J8ao' },
   ],
   link: () => hreflangLinks.value,
   htmlAttrs: {
